@@ -1,5 +1,7 @@
 # crystal-github
 
+[![Build Status](https://travis-ci.org/felipeelias/crystal-github.svg?branch=master)](https://travis-ci.org/felipeelias/crystal-github)
+
 Github API wrapper in [Crystal](https://crystal-lang.org)! (work in progress)
 
 ## Installation
