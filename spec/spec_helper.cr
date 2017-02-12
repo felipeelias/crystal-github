@@ -1,2 +1,2 @@
 require "spec"
-require "../src/crystal-github"
+require "../src/github"
