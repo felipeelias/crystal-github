@@ -4,6 +4,6 @@ version: 0.1.0
 authors:
   - Felipe Philipp <felipeelias@gmail.com>
 
-crystal: 0.20.4
+crystal: 0.21.0
 
 license: MIT
