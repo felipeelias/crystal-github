@@ -1,3 +1,5 @@
+require "json"
+
 module Github
   class User
     JSON.mapping(
